@@ -1,3 +1,3 @@
 <?php
 
-echo ‘终于成功了’;
+echo ‘终于成功了’;haha
